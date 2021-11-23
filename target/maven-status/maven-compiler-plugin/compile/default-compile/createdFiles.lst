@@ -1,0 +1,4 @@
+com\dylbinthedev\vaulted\Vaulted.class
+com\dylbinthedev\vaulted\commands\OpenCommand.class
+com\dylbinthedev\vaulted\utils\VaultedUtils.class
+com\dylbinthedev\vaulted\listeners\Listeners.class

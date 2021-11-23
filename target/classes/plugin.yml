@@ -1,0 +1,10 @@
+name: Vaulted
+version: '1.0'
+main: com.dylbinthedev.vaulted.Vaulted
+api-version: 1.17
+authors: [ DylbinTheDev ]
+description: Player vault spigot plugin
+website: https://dylbinthedev.github.io/
+commands:
+  vault:
+    description: vault
